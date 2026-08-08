@@ -36,7 +36,7 @@ Privilege Escalation
 CVE-2019-14287
       ↓
 Root 👑
-
+```
 ## 🛠️ Ferramentas utilizadas
 
 ```text
